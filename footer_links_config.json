@@ -1,19 +1,52 @@
 [
 	{
-		"title": "SparkChain",
+		"title": "Links",
 		"links": [
 			{
 				"text": "Homepage",
 				"url": "https://sparkchain.network/"
+			},
+			{
+				"text": "SparkPoint",
+				"url": "https://sparkpoint.io/"
+			},
+			{
+				"text": "Get your test SPARK tokens here",
+				"url": "https://faucet.sparkchain.network/"
+			},
+			{
+				"text": "SparkPoint Network Testnet",
+				"url": "https://medium.com/theecosystem/sparkpoint-network-testnet-become-a-node-validator-guide-7fead9ff0a93"
 			}
 		]
 	},
 	{
-		"title": "SparkPoint",
+		"title": "About Us",
 		"links": [
 			{
-				"text": "Homepage",
-				"url": "https://sparkpoint.io/"
+				"text": "Team",
+				"url": "https://sparkchain.network/#team"
+			},
+			{
+				"text": "Token",
+				"url": "https://sparkchain.network/#token"
+			},
+			{
+				"text": "Support",
+				"url": "mailto: support@sparkpoint@sparkpoint.io"
+			}
+		]
+	},
+	{
+		"title": "Legal",
+		"links": [
+			{
+				"text": "Privacy Policy",
+				"url": "https://sparkchain.network/privacy"
+			},
+			{
+				"text": "Terms of Service",
+				"url": "https://sparkchain.network/terms"
 			}
 		]
 	}
